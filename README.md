@@ -1,5 +1,5 @@
 # OSS-lab04-business-model
 
-Business Model: Create a mobile operating system for phone. The company makes profit by selling applications in app store and provides data backup/recovery service. The company may also makes profit by advertisement and setting the default app. 
+Business Model: Create a mobile operating system for phones. The company makes profit by selling applications in app store, provides data backup/recovery service and advertisement.
 
-I am choosing Apache license because I would like 
+I choose Apache license because I would like to attract other people to choose using this operating system. Giving them access to modify the system for commerical use would attract software developers to develop softwares and therefore make the community thrive. The company would mostly make profit by providing paid services, therefore it's important to attract users to choose this operating system.
